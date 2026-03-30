@@ -22,7 +22,7 @@ Plataforma para analizar IoCs (IP, dominio, hash) con fuentes CTI y soporte de I
 - Demo: [ctai.marcvspt.tech](https://ctai.marcvspt.tech)
 - Stack: Astro, TypeScript, Tailwind, OpenRouter, VirusTotal, AbuseIPDB, PolySwarm, Robtex
 
-![alt text](image.png)
+![Ejemplo de la web CyberThreat AI](cyberthreat-ai.png)
 
 ### 2. marcvspt-web
 
@@ -32,7 +32,7 @@ Sitio personal y blog tecnico para contenido de ciberseguridad e infraestructura
 - Web: [marcvspt.tech](https://www.marcvspt.tech)
 - Stack: Astro, Tailwind, TypeScript
 
-![alt text](image-1.png)
+![Ejemplo de la web Marcvs Pt Blog](marcvspt-web.png)
 
 ### 3. dotfiles
 
@@ -64,13 +64,24 @@ Implementacion de reverse proxy con Nginx + Docker + SSL para multiples servicio
 
 ## Tecnologias frecuentes
 
-`Linux` `Bash` `Python` `TypeScript` `Astro` `Tailwind` `Docker` `Nginx` `CTI`
+### Desarrollo
+
+`Linux` `Bash` `PowerShell` `Python` `TypeScript` `Astro` `Tailwind` `Docker` `Nginx`
+
+### Ciberseguridad
+
+`Firewall` `WAF` `SEG` `EPP` `EDR` `XDR` `SIEM`
+
+## Áreas de especialidad
+
+`CTI` `Pentesting` `Seguridad perimetral` `Seguridad de redes` `Seguridad de dispositivos finales` `CTI` `Respuesta ante incidentes`
 
 ## Contacto
 
 - GitHub: [@marcvspt](https://github.com/marcvspt)
+- X/Twiiter: [@marcvspt](https://x.com/marcvspt)
 - Web: [marcvspt.tech](https://www.marcvspt.tech)
 
 ---
 
-Si te interesan proyectos de ciberseguridad aplicada, automatizacion y tooling, aqui iras encontrando avances constantes.
+Si te interesan proyectos de ciberseguridad aplicada, redes e infraestructura, automatizacion y tooling, aqui encontras repositorios utiles.
