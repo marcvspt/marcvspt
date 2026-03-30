@@ -3,7 +3,7 @@
 Perfil enfocado en ciberseguridad, automatizacion, infraestructura y desarrollo de herramientas practicas.
 
 [![Website](https://img.shields.io/badge/Website-marcvspt.tech-0a0a0a?style=for-the-badge)](https://www.marcvspt.tech)
-[![CyberThreat%20AI](https://img.shields.io/badge/Live-ctai.marcvspt.tech-1f6feb?style=for-the-badge)](https://ctai.marcvspt.tech)
+[![CyberThreat%20AI](https://img.shields.io/badge/Tool-ctai.marcvspt.tech-1f6feb?style=for-the-badge)](https://ctai.marcvspt.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-marcvspt-181717?style=for-the-badge&logo=github)](https://github.com/marcvspt)
 
 ## Sobre mi
