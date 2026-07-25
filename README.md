@@ -15,7 +15,7 @@ Perfil enfocado en ciberseguridad, automatizacion, infraestructura y desarrollo 
 
 ## Proyectos principales
 
-### 1. CyberThreat AI
+### 1. CyberThreat AI (CTAI)
 
 Plataforma para analizar IoCs (IP, dominio, hash) con fuentes CTI y soporte de IA.
 
@@ -25,38 +25,55 @@ Plataforma para analizar IoCs (IP, dominio, hash) con fuentes CTI y soporte de I
 
 ![Ejemplo de la web CyberThreat AI](cyberthreat-ai.png)
 
-### 2. marcvspt-web
+### 2. Web Marcvs Pt
 
 Sitio personal y blog tecnico para contenido de ciberseguridad e infraestructura.
 
 - Repo: [marcvspt/marcvspt-web](https://github.com/marcvspt/marcvspt-web)
-- Web: [marcvspt.tech](https://www.marcvspt.tech)
+- Web: [www.marcvspt.tech](https://www.marcvspt.tech)
 - Stack: Astro, Tailwind, TypeScript
 
 ![Ejemplo de la web Marcvs Pt Blog](marcvspt-web.png)
 
-### 3. dotfiles
+### 3. Open Personal Resource Planning (OPRP)
+
+Aplicación  para gestión financiera y organización personal. Centraliza registro de transacciones, plazos, tarjetas de crédito, servicios, compras, despensa, notas, tareas, eventos, cashback y más en un solo lugar.
+
+- Repo: [marcvspt/open-prp](https://github.com/marcvspt/open-prp)
+- Web: [oprp.marcvspt.tech](https://oprp.marcvspt.tech)
+- Stack: Astro, Tailwind, React, Clerk, TursoDB, TypeScript
+
+![Ejemplo de la web Marcvs Pt Blog](open-prp.png)
+
+### 4. dotfiles
 
 Configuracion personal de entorno Linux/WSL (shell, editor, herramientas y ajustes base).
 
 - Repo: [marcvspt/dotfiles](https://github.com/marcvspt/dotfiles)
 - Enfoque: productividad, personalizacion de terminal y setup reproducible
 
-### 4. bash-tools
+### 5. Bash Tools
 
 Coleccion de scripts Bash para tareas de red, monitoreo y mantenimiento.
 
 - Repo: [marcvspt/bash-tools](https://github.com/marcvspt/bash-tools)
+- Incluye: deteccion de hosts activos vía PING y latencia
+
+### 6. Simple Network Monitor (SNM)
+
+Daemon de monitoreo de conectividad por ping persistente, administrado completamente desde una sola CLI 
+
+- Repo: [marcvspt/snm](https://github.com/marcvspt/snm)
 - Incluye: escaneo de red, escaneo de puertos, limpieza de Docker, monitoreo de procesos
 
-### 5. gpg-pysuite
+### 7. GPG-PySuite
 
 Suite CLI en Python para operaciones GPG sin importar llaves al keyring local.
 
 - Repo: [marcvspt/gpg-pysuite](https://github.com/marcvspt/gpg-pysuite)
 - Funciones: generar, cifrar, descifrar, firmar y verificar
 
-### 6. revproxy-docker
+### 8. Reverse Proxy Docker
 
 Implementacion de reverse proxy con Nginx + Docker + SSL para multiples servicios web.
 
