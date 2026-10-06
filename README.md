@@ -2,8 +2,9 @@
 
 Perfil enfocado en ciberseguridad, automatizacion, infraestructura y desarrollo de herramientas practicas.
 
-[![Website](https://img.shields.io/badge/Website-marcvspt.tech-0a0a0a?style=for-the-badge)](https://www.marcvspt.tech)
-[![CyberThreat%20AI](https://img.shields.io/badge/Tool-ctai.marcvspt.tech-1f6feb?style=for-the-badge)](https://ctai.marcvspt.tech)
+[![Website](https://img.shields.io/badge/Website-marcvspt.tech-1f6feb?style=for-the-badge)](https://www.marcvspt.tech)
+[![CyberEvents%20MX](https://img.shields.io/badge/Landing-cemx.marcvspt.tech-481feb?style=for-the-badge)](https://cemx.marcvspt.tech)
+[![CyberThreat%20AI](https://img.shields.io/badge/Tool-ctai.marcvspt.tech-7e1feb?style=for-the-badge)](https://ctai.marcvspt.tech)
 [![GitHub](https://img.shields.io/badge/GitHub-marcvspt-181717?style=for-the-badge&logo=github)](https://github.com/marcvspt)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcvspt)
 
@@ -15,17 +16,26 @@ Perfil enfocado en ciberseguridad, automatizacion, infraestructura y desarrollo 
 
 ## Proyectos principales
 
-### 1. CyberThreat AI (CTAI)
+### CyberEvents MX
+
+Sitio que recopila y centraliza información de eventos actuales y pasados relacionados a la ciberseguridad en México
+
+- Repo: [marcvspt/cyberevents-mx](https://github.com/marcvspt/cyberevents-mx)
+- Web: [cemx.marcvspt.tech](https://cemx.marcvspt.tech)
+- Stack: Astro, Tailwind, TypeScript
+![Ejemplo de la web CyberEvents MX](cyberevents-mx.png)
+
+### 2. CyberThreat AI (CTAI)
 
 Plataforma para analizar IoCs (IP, dominio, hash) con fuentes CTI y soporte de IA.
 
 - Repo: [marcvspt/cyberthreat-ai](https://github.com/marcvspt/cyberthreat-ai)
 - Demo: [ctai.marcvspt.tech](https://ctai.marcvspt.tech)
-- Stack: Astro, TypeScript, Tailwind, OpenRouter, VirusTotal, AbuseIPDB, PolySwarm, Robtex
+- Stack: Astro, TypeScript, React, Tailwind, OpenRouter, VirusTotal, AbuseIPDB, PolySwarm, Robtex
 
 ![Ejemplo de la web CyberThreat AI](cyberthreat-ai.png)
 
-### 2. Web Marcvs Pt
+### 3. Web Marcvs Pt
 
 Sitio personal y blog tecnico para contenido de ciberseguridad e infraestructura.
 
@@ -35,7 +45,7 @@ Sitio personal y blog tecnico para contenido de ciberseguridad e infraestructura
 
 ![Ejemplo de la web Marcvs Pt Blog](marcvspt-web.png)
 
-### 3. Open Personal Resource Planning (OPRP)
+### 4. Open Personal Resource Planning (OPRP)
 
 Aplicación  para gestión financiera y organización personal. Centraliza registro de transacciones, plazos, tarjetas de crédito, servicios, compras, despensa, notas, tareas, eventos, cashback y más en un solo lugar.
 
@@ -45,35 +55,35 @@ Aplicación  para gestión financiera y organización personal. Centraliza regis
 
 ![Ejemplo de la web Marcvs Pt Blog](open-prp.png)
 
-### 4. dotfiles
+### 5. dotfiles
 
 Configuracion personal de entorno Linux/WSL (shell, editor, herramientas y ajustes base).
 
 - Repo: [marcvspt/dotfiles](https://github.com/marcvspt/dotfiles)
 - Enfoque: productividad, personalizacion de terminal y setup reproducible
 
-### 5. Bash Tools
+### 6. Bash Tools
 
 Coleccion de scripts Bash para tareas de red, monitoreo y mantenimiento.
 
 - Repo: [marcvspt/bash-tools](https://github.com/marcvspt/bash-tools)
 - Incluye: deteccion de hosts activos vía PING y latencia
 
-### 6. Simple Network Monitor (SNM)
+### 7. Simple Network Monitor (SNM)
 
 Daemon de monitoreo de conectividad por ping persistente, administrado completamente desde una sola CLI 
 
 - Repo: [marcvspt/snm](https://github.com/marcvspt/snm)
 - Incluye: escaneo de red, escaneo de puertos, limpieza de Docker, monitoreo de procesos
 
-### 7. GPG-PySuite
+### 8. GPG-PySuite
 
 Suite CLI en Python para operaciones GPG sin importar llaves al keyring local.
 
 - Repo: [marcvspt/gpg-pysuite](https://github.com/marcvspt/gpg-pysuite)
 - Funciones: generar, cifrar, descifrar, firmar y verificar
 
-### 8. Reverse Proxy Docker
+### 9. Reverse Proxy Docker
 
 Implementacion de reverse proxy con Nginx + Docker + SSL para multiples servicios web.
 
