@@ -23,6 +23,7 @@ Sitio que recopila y centraliza información de eventos actuales y pasados relac
 - Repo: [marcvspt/cyberevents-mx](https://github.com/marcvspt/cyberevents-mx)
 - Web: [cemx.marcvspt.tech](https://cemx.marcvspt.tech)
 - Stack: Astro, Tailwind, TypeScript
+
 ![Ejemplo de la web CyberEvents MX](cyberevents-mx.png)
 
 ### 2. CyberThreat AI (CTAI)
